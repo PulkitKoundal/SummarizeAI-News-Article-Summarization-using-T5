@@ -1,7 +1,7 @@
 # SummarizeAI: News Article Summarization using T5
 
 ## Overview
-SummarizeAI is a project that leverages the T5 (Text-To-Text Transfer Transformer) model to generate concise summaries of news articles. The project is implemented using Python and popular libraries such as PyTorch, Hugging Face Transformers, and Datasets. The goal is to provide a tool that can automatically summarize long articles, making it easier for users to quickly grasp the main points.
+SmartSummarizer is an NLP-based project that implements text summarization using the T5 transformer model. It processes news articles from the CNN/DailyMail dataset to generate concise summaries. The model is fine-tuned using Hugging Face's transformers library and evaluated with ROUGE and BLEU metrics.
 
 ## Features
 - **T5 Model**: Utilizes the T5-small model for text summarization.
