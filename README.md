@@ -13,8 +13,12 @@ SummarizeAI is a project that leverages the T5 (Text-To-Text Transfer Transforme
 ## Result:
 The model's performance is evaluated using the following metrics:
 
-ROUGE-1: 0.333
-ROUGE-2: 0.120
-ROUGE-L: 0.243
-BLEU: 0.038
-Perplexity: 4.105
+1.ROUGE-1: 0.333
+
+2.ROUGE-2: 0.120
+
+3.ROUGE-L: 0.243
+
+4.BLEU: 0.038
+
+5.Perplexity: 4.105
